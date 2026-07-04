@@ -1,0 +1,4 @@
+gen*.py
+generate_site.py
+__pycache__/
+*.pyc
